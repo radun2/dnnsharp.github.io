@@ -1,6 +1,6 @@
 ### Getting Started with NavXP
 
-NavXp is a DotNetNuke component that handles navigation. It was designed for multiple purposes. In a simple scenario it renders the hierarchy of pages you have in your portal. At this point you can use of our themes or create your own to reflect your vision. You can take one step further and bring your ideas into action by creating custom menus using [Profiles](/nav-xp/profiles.html){:target="_blank"}.
+NavXp is a DNN component that handles navigation. It was designed for multiple purposes. In a simple scenario it renders the hierarchy of pages you have in your portal. At this point you can use of our themes or create your own to reflect your vision. You can take one step further and bring your ideas into action by creating custom menus using [Profiles](/nav-xp/profiles.html){:target="_blank"}.
 
 In more advanced scenarios, NavXp can render a custom hierarchy you define with drag and drop operations from pages in your portal; the hierarchy itself can be different for various roles. You can read more about this in [Profiles](/nav-xp/profiles.html){:target="_blank"}.
 
